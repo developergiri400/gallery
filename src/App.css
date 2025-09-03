@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+button {
+  margin-left: 10px;
+  padding: 5px 15px;
+  cursor: pointer;
+}
+
+img,
+video {
+  border-radius: 10px;
+}
