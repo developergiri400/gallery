@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /api/
 
-Sitemap: https://giri-gallery.vercel.app/sitemap.xml
+Sitemap: https://girl-gallery.vercel.app/sitemap.xml
